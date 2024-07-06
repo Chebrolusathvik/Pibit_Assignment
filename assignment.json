@@ -1,0 +1,74 @@
+{
+    "name": "CHEBROLU SATHVIK",
+    "contact": {
+      "phone": "+91 9494189456",
+      "email": "sc9100@srmist.edu.in",
+      "github": "https://github.com/Chebrolusathvik",
+      "location": "Ponnur, Guntur, Andhra Pradesh, India"
+    },
+    "careerObjective": "To become a proficient machine learning engineer and web developer, integrating cutting-edge technologies to craft impactful solutions. Eager to leverage machine learning algorithms to solve real-world problems and create dynamic web applications that enhance user experiences. Dedicated to continuous learning and collaborative teamwork in a dynamic and innovative environment.",
+    "education": [
+      {
+        "institution": "SRM Institute of Science and Technology, KTR",
+        "duration": "Sep 2021 - Present",
+        "details": "3rd year Undergraduate, Department of Computational Intelligence"
+      },
+      {
+        "institution": "DVC Viveka Junior College, Guntur",
+        "details": "CGPA: 9.12 XII, Percentage: 96.2%"
+      },
+      {
+        "institution": "MVRS Viveka Foster School, Guntur",
+        "details": "X, Percentage: 95%"
+      }
+    ],
+    "academicProjects": [
+      {
+        "title": "Hand Movement Gestures",
+        "technologies": ["CV", "Pyautogui"],
+        "description": "Simplifying the way users interact with technology through natural hand movements. Facilitating communication between humans and machines by accurately interpreting hand gestures."
+      },
+      {
+        "title": "Ethereum Block Chain",
+        "technologies": ["Solidity", "React js"],
+        "description": "Ethereum aims to provide a platform for developers to build decentralized applications (DApps) utilizing smart contracts. These applications can run autonomously without any downtime, censorship, fraud, or third-party interference, fostering innovation in various industries such as finance, supply chain, gaming, and more."
+      },
+      {
+        "title": "Heart Disease Prediction",
+        "technologies": ["Sklearn"],
+        "description": "Identifying individuals at risk of developing heart disease early on, healthcare providers can implement preventive measures such as lifestyle modifications, medication regimens, and regular monitoring to reduce the likelihood of heart-related complications."
+      },
+      {
+        "title": "Google Authentication",
+        "technologies": ["Node js"],
+        "description": "Google Authentication simplifies user access to online services via their Google credentials, enhancing security with robust authentication methods. Its streamlined process improves user experience, while its integration offers developers a convenient and compliant solution for identity verification."
+      }
+    ],
+    "skills": {
+      "personalSkills": ["Creativity", "Team Collaboration", "Problem-Solving", "Decision Making"],
+      "technicalSkills": ["Python", "Machine learning", "Neural Networks", "C", "C++", "Javascript", "HTML", "CSS", "React js", "Node js"]
+    },
+    "workExperience": [
+      {
+        "company": "1stop",
+        "duration": "April 2023 - March 2023",
+        "responsibilities": "Creating a technology that can accurately transcribe spoken language into text, with potential applications in various fields such as accessibility, communication, automation, and efficiency. We integrated the ASR system into our application or service, allowing users to interact with audio inputs and receive corresponding transcriptions in real-time."
+      }
+    ],
+    "certifications": [],
+    "achievements": [
+      {
+        "achievement": "Second Place, Ja Assure Company Hackathon",
+        "description": "Secured 2nd place and a 25k cash prize in Ja Assure Company's hackathon which is of 36 hours hackathon."
+      },
+      {
+        "achievement": "Finalist, SIH hackathon",
+        "description": "We have went for finals in Smart India Hackathon."
+      },
+      {
+        "achievement": "MathWorks Virtual Bootcamp",
+        "description": "Engaged in a rigorous 32-hour professional development program focused on Machine Learning."
+      }
+    ]
+  }
+  
